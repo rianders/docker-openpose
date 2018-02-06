@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR src
 
-#RUN git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+RUN git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 WORKDir /src/openpose
 
 
