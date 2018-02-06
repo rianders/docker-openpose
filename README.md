@@ -1,9 +1,16 @@
 # docker-openpose
 
 
-CMU OpenPose:
+## CMU OpenPose:
 
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+## Installation
+
+Details: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md#cmake-command-line-configuration-ubuntu-only
+
+## Docker commands
+
 
 Build openpose in docker fro github
 

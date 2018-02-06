@@ -1,5 +1,7 @@
 # TODO: Install opencv 
 # FROM rianders/opencv  etc
+# Possible example: https://shahsparx.me/install-opencv-ubuntu-python-pycharm/
+# https://www.learnopencv.com/install-opencv3-on-ubuntu/
 
 FROM ubuntu:17.04
 
